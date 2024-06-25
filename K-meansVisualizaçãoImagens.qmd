@@ -1,0 +1,11 @@
+---
+title: "Recolorindo imagens com o modelo K-means"
+author: "Fernando Antônio Pereira Cunha"
+lang: pt
+date: today
+format: html
+editor: visual
+---
+## Introdução
+
+Neste projeto, usaremos do modelo K-means para recolorir imagens com poucas cores
